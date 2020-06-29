@@ -1,0 +1,19 @@
+{
+  "name": "taxcalculatoret",
+  "version": "1.0.0",
+  "description": "Calculates income tax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortuna-es/taxCalculator.git"
+  },
+  "author": "Fortuna Estifanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortuna-es/taxCalculator/issues"
+  },
+  "homepage": "https://github.com/fortuna-es/taxCalculator#readme"
+}

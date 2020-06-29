@@ -4,27 +4,22 @@
 
  # Installation
 
-To install taxCalculator use the command:
+To install taxCalculatoret use the command:
 
- `npm i taxCalculator --save`
+ `npm i taxCalculatoret --save`
 
  # Usage
 
- The package can be imported to a project as shown in the example js codes below.
+ The package can be imported to a project as shown in the example js code below.
 
- ## Examples
+ ## Example
 
 ```
- var {incomeTax}= require('taxCalculator');
+ var {incomeTax}= require('taxCalculatoret');
 
  incomeTax(2000);
 ```
- or
-```
- var incomeTax = require('taxCalculator');
 
- incomeTax.incomeTaxCalculator(5000);
-```
 ## To see the results run the comannd:
   
   `node index.js`
