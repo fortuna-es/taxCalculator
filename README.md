@@ -15,9 +15,9 @@ To install taxCalculatoret use the command:
  ## Example
 
 ```
- var {incomeTax}= require('taxCalculatoret');
+var incomeTax=require('taxcalculatoret')
 
- incomeTax(2000);
+console.log(incomeTax.incomeTaxCalculator(5000));
 ```
 
 ## To see the results run the comannd:
