@@ -1,6 +1,6 @@
 {
   "name": "taxcalculatoret",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculates income tax.",
   "main": "index.js",
   "scripts": {
